@@ -1,0 +1,149 @@
+body{
+	margin: 0%;
+	padding: 0%;
+}
+.tagline1{
+	background-color: #ffffff;
+	width: 100%;
+	height: 82px;
+	border-bottom: 4px solid #e4e4e5;
+}
+.logo{
+	width: 16%;
+	height: 82px;
+	background-color: #ffffff;
+	border-bottom: 4px solid #e4e4e5;
+	position: absolute;
+	margin-left: 7.8%;
+	margin-top: 15px;
+	border-radius: 5px 5px 5px 5px;
+}
+.logo-img{
+	width: 100%;
+	height: 100%;
+}
+.tagline2{
+	background-color: #edeff2;
+	height: 754px;
+}
+.tagline3{
+	background-color: #292f38;
+	height: 52px;
+}
+.menu-position{
+	margin-left: 500px;
+	position: absolute;
+	margin-top: 32px;
+}
+.menu{
+	font-size: 12pt;
+	font-weight: bold;
+	display: inline;
+	margin-left: 30px;
+	font-family: "Open Sans";
+}
+.text-decoration{
+	text-decoration: none;
+	color: #a5a3a1;
+}
+.copyright{
+	font-family: "Open Sans";
+	font-size: 12pt;
+	color: #5b616a;
+	margin-top: 15px;
+	float: left;
+	margin-left: 100px;
+}
+.fb{
+	width: 25px;
+	height: 25px;
+	margin-top: 15px;
+	margin-left: 55%;
+	position: absolute;
+}
+/*------------custom-css------------*/
+
+.textq{
+	width: 459px;
+	height: 211px;
+	background-color: #ffffff;
+	border-radius: 5px;
+	position: absolute;
+	margin-left: 105px;
+	margin-top: 45px;
+}
+.text1{
+	font-size: 16pt;
+	font-family: "Open Sans";
+	color: #60c1df;
+	font-weight: bold;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+.text2{
+	color: #87919f;
+	font-size: 12pt;
+	margin-left: 20px;
+	margin-top: 20px;
+	font-weight: bold;
+	font-family: "Open Sans";
+}
+.text3{
+	color: #87919f;
+	font-size: 12pt;
+	margin-left: 20px;
+	margin-top: 10px;
+	font-weight: bold;
+	font-family: "Open Sans";
+}
+.linee{
+	width: 400px;
+	border: 1px solid #87919f;
+	margin-top: 40px;
+	margin-left: 25px;
+}
+label{
+	font-weight: bold;
+	font-family: "Open Sans";
+	margin-left: 100px;
+}
+input{
+	width: 500px;
+	height: 30px;
+	margin-left: 100px;
+	border-radius: 5px;
+	border: 1px solid #ffffff;
+}
+.help{
+	margin-left: 100px;
+	margin-top: 10px;
+	font-family: "Open Sans";
+	font-size: 18pt;
+	font-weight: bold;
+}
+.textbox{
+	width: 500px;
+	height: 190px;
+	border-radius: 5px;
+	border: 1px solid #ffffff;
+}
+.isi-pesan{
+	position: absolute;
+	margin-left: 600px;
+}
+.kirim{
+	width: 100px;
+	height: 30px;
+	float: right;
+	border-radius: 5px;
+	border: 1px solid #5bc0de;
+	background-color: #5bc0de;
+	font-family: "Open Sans";
+	font-weight: bold;
+	color: #ffffff;
+	border-bottom: 2px solid #cccccc;
+}
+.kirim:hover{
+	background-color: #459ab3;
+	color: #e2ddd7;
+}

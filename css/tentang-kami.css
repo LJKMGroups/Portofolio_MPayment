@@ -1,0 +1,102 @@
+body{
+	margin: 0%;
+	padding: 0%;
+}
+.tagline1{
+	background-color: #ffffff;
+	width: 100%;
+	height: 82px;
+	border-bottom: 4px solid #e4e4e5;
+}
+.logo{
+	width: 16%;
+	height: 82px;
+	background-color: #ffffff;
+	border-bottom: 4px solid #e4e4e5;
+	position: absolute;
+	margin-left: 7.8%;
+	margin-top: 15px;
+	border-radius: 5px 5px 5px 5px;
+}
+.logo-img{
+	width: 100%;
+	height: 100%;
+}
+.tagline2{
+	background-color: #edeff2;
+	height: 565px;
+}
+.tagline3{
+	background-color: #292f38;
+	height: 52px;
+}
+.menu-position{
+	margin-left: 500px;
+	position: absolute;
+	margin-top: 32px;
+}
+.menu{
+	font-size: 12pt;
+	font-weight: bold;
+	display: inline;
+	margin-left: 30px;
+	font-family: "Open Sans";
+}
+.text-decoration{
+	text-decoration: none;
+	color: #a5a3a1;
+}
+.copyright{
+	font-family: "Open Sans";
+	font-size: 12pt;
+	color: #5b616a;
+	margin-top: 15px;
+	float: left;
+	margin-left: 100px;
+}
+.fb{
+	width: 25px;
+	height: 25px;
+	margin-top: 15px;
+	margin-left: 55%;
+	position: absolute;
+}
+/*------------custom-css------------*/
+
+.menu-header{
+	height: 119px;
+	width: 100%;
+	background-color: #ed6e00;
+}
+.text1{
+	font-size: 9pt;
+	font-family: "Open Sans";
+	color: #ffffff;
+	margin-top: 30px;
+	position: absolute;
+	margin-left: 110px;
+}
+.text2{
+	margin-top: 50px;
+	position: absolute;
+	font-size: 20pt;
+	font-family: "Open Sans";
+	color: #ffffff;
+	margin-left: 110px;
+}
+.more{
+	font-family: "Open Sans";
+	font-size: 18pt;
+	width: 90%;
+	text-align: center;
+	margin-left: 5%;
+	color: #8d9ca9;
+}
+.org{
+	text-decoration: none;
+	color: #ed6e00;
+}
+.judul{
+	color: #000000;
+	font-weight: bolder;
+}
